@@ -1,0 +1,13 @@
+h1 {text-align: center; font-family: "Source Sans Pro", sans-serif; font-weight: normal;}
+p{text-align:center; font-weight:normal; font-family:"Source Sans Pro", sans-serif;}
+.coreBd {padding: 60px 15px 0;}
+.buttonContainer{padding-top:20px; padding-bottom:20px;}
+.headContainer{padding-top:60px; padding-bottom:20px;}
+.btnFunction{width:100%; padding:10px; font-size:20px;}
+.navbar-logo{width:100px; height:auto;}
+.formSelector{padding-top:20px; padding-bottom:20px;}
+.footer-logo{width:100px; height:auto; padding-top:10px; padding-bottom:10px; margin-left:auto; margin-right:auto; display:block;}
+.navbar-light{background-color:#ffffff!important;}
+.navbar-dark{background-color:#0000B3!important;}
+.btnCx{margin-top:15px;}
+.form-group{padding:10px;}
